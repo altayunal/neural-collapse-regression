@@ -14,7 +14,7 @@ ARCHITECTURE = "mlp"
 # ============================================================
 # 2. MEASUREMENT MODE
 # ============================================================
-# Which metrics to compute. Any combination of: "nrc1", "nrc3", "nrc4", "cka"
+# Which metrics to compute. Any combination of: "nrc1", "nrc2", "nrc3", "nrc4"
 METRICS = ["nrc1", "nrc2", "nrc3", "nrc4"]
 
 # ============================================================
